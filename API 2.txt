@@ -139,7 +139,7 @@ Xbox 360 games
 }
 {
 "Name": "Hitman absolution",
-"Price": €152,
+"Price": €15,
 "rating": 8
 }
 {
