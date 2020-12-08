@@ -60,8 +60,8 @@
 "Name": "Watch dogs legion",
 "Price": €55,
 "rating": 6
-}
-]
+}}
+
 "PS4 games":{
 {
 "Name": "Black ops cold war",
@@ -122,7 +122,7 @@
 "Name": "Watch dogs legion",
 "Pric"e: €55,
 "rating": 6
-},
+}}
 
 "Xbox 360 games":{
 
@@ -186,8 +186,7 @@
 "Name": "Watch dogs",
 "Price": €10,
 "rating": 7
-},
-{
+}}
 
 "PS3 games":{
 {
@@ -249,5 +248,6 @@
 "Name": "Watch dogs",
 "Price": €10,
 "rating": 7
-}
+}}
 ]
+}
