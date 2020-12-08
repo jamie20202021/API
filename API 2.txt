@@ -60,9 +60,9 @@
 "Name": "Watch dogs legion",
 "Price": €55,
 "rating": 6
-}}
-
-"PS4 games":{
+}
+],
+"PS4 games":[
 {
 "Name": "Black ops cold war",
 "Price": €70,
@@ -122,9 +122,10 @@
 "Name": "Watch dogs legion",
 "Pric"e: €55,
 "rating": 6
-}}
+}
+],
 
-"Xbox 360 games":{
+"Xbox 360 games":[
 
 {
 "Name": "modern warfare 2",
@@ -186,9 +187,10 @@
 "Name": "Watch dogs",
 "Price": €10,
 "rating": 7
-}}
+}
+],
 
-"PS3 games":{
+"PS3 games":[
 {
 "Name": "modern warfare 2",
 "Price": €15,
@@ -248,6 +250,9 @@
 "Name": "Watch dogs",
 "Price": €10,
 "rating": 7
-}}
+}
 ]
 }
+]
+}
+
