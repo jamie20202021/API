@@ -1,249 +1,250 @@
-[
+{ "gamestore":[{
     
-Xbox one games
+"Xbox one games":{
 
-{
 "Name": "Black ops cold war",
 "Price": €70,
 "rating": 7
-}
+},
 {
 "Name": "Cyber Punk 2077",
 "Price": €70,
 "rating": 9
-}
+},
 {
 "Name": "Grand theft auto v",
 "Price": €15,
 "rating": 9
-}
+},
 {
 "Name": "Red dead redemption 2",
 "Price": €20,
 "rating": 8
-}
+},
 {
 "Name": "Fifa 20",
 "Price": €40,
 "rating": 6
-}
+},
 {
 "Name": "Minecraft",
 "Price": €15,
 "rating": 8
-}
+},
 {
 "Name": "Fallout 4",
 "Price": €10,
 "rating": 8
-}
+},
 {
 "Name": "Star wars the fallen jedi",
 "Price": €30,
 "rating": 9
-}
+},
 {
 "Name": "Forza Horizon",
 "Price": €10,
 "rating": 7
-}
+},
 {
 "Name": "Battlefield 1",
 "Price": €10,
 "rating": 8
-}
+},
 {
 "Name": "Asassins creed valhalla",
 "Price": €70,
 "rating": 9
-}
+},
 {
 "Name": "Watch dogs legion",
 "Price": €55,
 "rating": 6
 }
-
-PS4 games
+]
+"PS4 games":{
 {
 "Name": "Black ops cold war",
 "Price": €70,
 "rating": 7
-}
+},
 {
 "Name": "Cyber Punk 2077",
 "Price": €70,
 "rating": 9
-}
+},
 {
 "Name": "Grand theft auto v",
 "Price": €15,
 "rating": 8
-}
+},
 {
 "Name": "Red dead redemption 2",
 "Price": €20,
 "rating": 9
-}
+},
 {
 "Name": "Fifa 20",
 "Price": €40,
 "rating": 7
-}
+},
 {
 "Name": "Bloodborne",
 "Price": €15,
 "rating": 8
-}
+},
 {
 "Name": "Fallout 4",
 "Price": €10,
 "rating": 7
-}
+},
 {
 "Name": "Star wars the fallen jedi",
 "Price": €30,
 "rating": 9
-}
+},
 {
 "Name": "Sekiro",
 "Price": €25,
 "rating": 8
-}
+},
 {
 "Name": "Uncharted 4",
 "Price": €14,
 "rating": 8
-}
+},
 {
 "Name": "Assassins creed valhalla",
 "Price": €70,
 "rating": 7
-}
+},
 {
 "Name": "Watch dogs legion",
 "Pric"e: €55,
 "rating": 6
-}
+},
 
-Xbox 360 games
+"Xbox 360 games":{
 
 {
 "Name": "modern warfare 2",
 "Price": €15,
 "rating": 9
-}
+},
 {
 "Name": "Grand theft auto iv",
 "Price": €8,
 "rating": 9
-}
+},
 {
 "Name": "Hitman absolution",
 "Price": €15,
 "rating": 8
-}
+},
 {
 "Name": "Red dead redemption",
 "Price": €10,
 "rating": 9
-}
+},
 {
 "Name": "Halo 4",
 "Price": 12,
 "rating": 7
-}
+},
 {
 "Name":"Fifa 18",
 "Price": €5,
 "rating": 7
-}
+},
 {
 "Name": "Gears of war",
 "Price": €7,
 "rating": 8
-}
+},
 {
 "Name": "Battlefield 3",
 "Price": €4,
 "rating": 8
+},
+{
 
 "Name": "Far cry 3",
 "Price": €8,
 "rating": 8
-}
+},
 {
 "Name": "Saints row the third",
 "Price": €6,
 "rating": 7
-}
+},
 {
 "Name": "Resident evil 5",
 "Price": €5,
 "rating": 8
-}
+},
 {
 "Name": "Watch dogs",
 "Price": €10,
 "rating": 7
-}
+},
 {
 
-PS3 games
+"PS3 games":{
 {
 "Name": "modern warfare 2",
 "Price": €15,
 "rating": 9
-}
+},
 {
 "Name": "Grand theft auto iv",
 "Price": €8,
 "rating": 9
-}
+},
 {
 "Name": "Hitman absolution",
 "Price": €15,
 "rating": 7
-}
+},
 {
 "Name": "Red dead redemption",
 "Price": €10,
 "rating": 9
-}
+},
 {
 "Name": "Assassins creed 3",
 "Price": €3,
 "rating": 8
-}
+},
 {
 "Name": "Fifa 18",
 "Price": €5,
 "rating": 7
-}
+},
 {
 "Name": "Gears of war 2",
 "Price": €9,
 "rating": 8
-}
+},
 {
 "Name": "Battlefield 3",
 "Price": €4,
 "rating": 8
-}
+},
 {
 "Name": "Far cry" 3,
 "Price": €8,
 "rating": 8
-}
+},
 {
 "Name": "Saints row the third",
 "Price": €7,
 "rating": 7
-}
+},
 {
 "Name": "Resident evil" 6,
 "Price: €8,
 "rating": 7
-}
+},
 {
 "Name": "Watch dogs",
 "Price": €10,
