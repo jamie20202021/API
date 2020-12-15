@@ -1,0 +1,262 @@
+export const shopData = [
+  {
+    id: "1",
+    name: "Cyberpunk 2077",
+    price: 70,
+    review: 8,
+    image: "https://image.smythstoys.com/original/desktop/179700.jpg"
+  },
+
+  {
+    id: "2",
+    name: "Assassins creed Valhalla",
+    price: 70,
+    review: 8,
+    image: "https://image.smythstoys.com/original/desktop/189876.jpg"
+  },
+
+  {
+    id: "3",
+    name: "Fifa 21",
+    price: 30,
+    review: 7,
+    image:
+      "https://www.fifplay.com/img/public/fifa-21-cover-standard-edition.jpg"
+  },
+
+  {
+    id: "4",
+    name: "Watch dogs legion",
+    price: 60,
+    review: 6,
+    image: "https://image.smythstoys.com/original/desktop/179240.jpg"
+  },
+
+  {
+    id: "5",
+    name: "Black ops cold war",
+    price: 70,
+    review: 5,
+    image: "https://image.smythstoys.com/original/desktop/190633.jpg"
+  },
+
+  {
+    id: "6",
+    name: "Grand theft auto v",
+    price: 20,
+    review: 9,
+    image: "https://image.smythstoys.com/original/desktop/182363.jpg"
+  },
+
+  {
+    id: "7",
+    name: "Modern warfare 2",
+    price: 15,
+    review: 3,
+    image: "https://static-ie.gamestop.ie/images/products/201768/3max.jpg"
+  },
+
+  {
+    id: "8",
+    name: "Halo 4",
+    price: 12,
+    review: 2,
+    image:
+      "https://ie.static.webuy.com/product_images/Gaming/Xbox%20360%20Software/885370443219_s.jpg"
+  },
+
+  {
+    id: "9",
+    name: "Far cry 5",
+    price: 35,
+    review: 5,
+    image:
+      "https://ie.static.webuy.com/product_images/Gaming/Playstation4%20Software/3307216016595_s.jpg"
+  },
+
+  {
+    id: "10",
+    name: " Battlefield 1",
+    price: 35,
+    review: 8,
+    image:
+      "https://ie.static.webuy.com/product_images/Gaming/Playstation4%20Software/5030935113761_s.jpg"
+  },
+
+  {
+    id: "11",
+    name: "Gears of war",
+    price: 24,
+    review: 7,
+    image:
+      "https://ie.static.webuy.com/product_images/Gaming/Xbox%20360%20Software/882224260022_s.jpg"
+  },
+
+  {
+    id: "12",
+    name: "Star wars the fallen jedi",
+    price: 50,
+    review: 9,
+    image:""
+  },
+
+  {
+    id: "13",
+    name: "Red dead redemption 2",
+    price: 32,
+    review: 9
+  },
+
+  {
+    id: "14",
+    name: "Fallout 4",
+    price: 10,
+    review: 6
+  },
+
+  {
+    id: "15",
+    name: "Hitman absolution",
+    price: 70,
+    review: 7
+  },
+
+  {
+    id: "16",
+    name: "Forza horizon",
+    price: 70,
+    review: 8
+  },
+
+  {
+    id: "17",
+    name: "Resident evil 5",
+    price: 70,
+    review: 9
+  },
+
+  {
+    id: "18",
+    name: "modern warfare 3",
+    price: 14,
+    review: 10
+  },
+
+  {
+    id: "19",
+    name: "Fifa 17",
+    price: 5,
+    review: 7
+  },
+
+  {
+    id: "20",
+    name: "Sims 3",
+    price: 10,
+    review: 8
+  },
+
+  {
+    id: "21",
+    name: "Fallout 3",
+    price: 5,
+    review: 8
+  },
+
+  {
+    id: "22",
+    name: "Batman arkham knight",
+    price: 15,
+    review: 8
+  },
+
+  {
+    id: "23",
+    name: "Mafia 2",
+    price: 30,
+    review: 8
+  },
+
+  {
+    id: "24",
+    name: "Destiny",
+    price: 12,
+    review: 8
+  },
+
+  {
+    id: "25",
+    name: "Destiny 2",
+    price: 20,
+    review: 8
+  },
+
+  {
+    id: "26",
+    name: "Assassins creed unity",
+    price: 15,
+    review: 8
+  },
+
+  {
+    id: "27",
+    name: "The division",
+    price: 10,
+    review: 8
+  },
+
+  {
+    id: "28",
+    name: "Titanfall",
+    price: 10,
+    review: 8
+  },
+
+  {
+    id: "29",
+    name: "Elder scrolls skyrim",
+    price: 8,
+    review: 8
+  },
+
+  {
+    id: "30",
+    name: "Just cause 3",
+    price: 14,
+    review: 8
+  },
+
+  {
+    id: "31",
+    name: "Resident evil 2",
+    price: 35,
+    review: 8
+  },
+
+  {
+    id: "32",
+    name: "UFC 2",
+    price: 22,
+    review: 8
+  },
+
+  {
+    id: "33",
+    name: "Doom",
+    price: 11,
+    review: 8
+  },
+
+  {
+    id: "34",
+    name: "Dead rising 3",
+    price: 9,
+    review: 8
+  },
+  {
+    id: "35",
+    name: "Ghost recon",
+    price: 12,
+    review: 8,
+  }
+];
